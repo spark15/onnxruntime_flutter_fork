@@ -1,7 +1,12 @@
 <p align="center"><img width="50%" src="https://github.com/microsoft/onnxruntime/raw/main/docs/images/ONNX_Runtime_logo_dark.png" /></p>
 
+
+
 # OnnxRuntime Plugin
 [![pub package](https://img.shields.io/pub/v/onnxruntime.svg)](https://pub.dev/packages/onnxruntime)
+
+## Before you read
+This is a repository that is forked from onnxruntime_flutter. The reason why it was forked is that repository is abandoned and doesn't update to support 16KB which is essential to Android build.
 
 ## Overview
 
